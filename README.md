@@ -1,2 +1,2 @@
 # placement
-Repositório com o export do código Java do projeto do uso de algoritmo genético em problemas de floorplan design
+Repository with the Java implementation from the master thesis about two-dimensional placement compaction using an evolutionary approach
